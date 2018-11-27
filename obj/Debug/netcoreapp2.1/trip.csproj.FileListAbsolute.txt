@@ -1,0 +1,11 @@
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/bin/Debug/netcoreapp2.1/trip.deps.json
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/bin/Debug/netcoreapp2.1/trip.runtimeconfig.json
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/bin/Debug/netcoreapp2.1/trip.runtimeconfig.dev.json
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/bin/Debug/netcoreapp2.1/trip.dll
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/bin/Debug/netcoreapp2.1/trip.pdb
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.csprojAssemblyReference.cache
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.csproj.CoreCompileInputs.cache
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.AssemblyInfoInputs.cache
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.AssemblyInfo.cs
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.dll
+/Users/jaya/Documents/OneDrive - Kennesaw State University/Fall 2018/trip/obj/Debug/netcoreapp2.1/trip.pdb
