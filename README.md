@@ -1,6 +1,6 @@
-# Project Title
+# Trip
 
-One Paragraph of project description goes here
+This is a simple console c# application. This application help user to setup the trip. 
 
 ## Getting Started
 
